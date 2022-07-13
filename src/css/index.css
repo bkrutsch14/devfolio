@@ -249,3 +249,5 @@ pre[class*='language-'] {
   padding: 2px 5px !important;
   text-shadow: none !important;
 }
+
+body { background-color: #111111;color: #eee !important; }
