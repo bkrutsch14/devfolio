@@ -72,7 +72,7 @@ module.exports = {
         description: 'InfusionSoft, Monday.com, Asana, Trello, Freshbooks',
       },
       {
-        name: 'Industry Skills',
+        name: 'Industry',
         description:
           'Product Design, Interaction Design, Design Systems, UI Design, User Experience, Wireframing, Prototyping, Mobile-first Development',
       },
