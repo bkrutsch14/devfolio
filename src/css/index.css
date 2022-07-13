@@ -251,5 +251,5 @@ pre[class*='language-'] {
 }
 
 body { background-color: #111111;color: #eee !important; }
-h1, h2, h3, h4, h5, h6, p, .text-gray-600, .text-gray-900 { color: #eee; }
+h1, h2, h3, h4, h5, h6, p, .text-gray-600, .text-gray-900, ul, ol, li, .blog-content h1, .blog-content h2 { color: #eee; }
 a { color: #fff; }
