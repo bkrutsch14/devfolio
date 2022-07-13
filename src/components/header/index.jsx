@@ -36,7 +36,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
             <svg 
 	width="454.9"
 	height="37"
-	fill="none"
+	fill="#fff"
 	viewBox="0 0 454.9 37"
 	>
 		<path 
