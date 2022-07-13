@@ -7,70 +7,69 @@ module.exports = {
     // Main Site Title
     title: `Brooke Krutsch | Creative Director`,
     // Description that goes under your name in main bio
-    description: `Results-driven creative director.`,
+    description: `Creative Director`,
+    // Optional: Twitter account handle
+    author: `@rfitzio`,
+    // Optional: Github account URL
+    github: `https://github.com/ryanfitzgerald`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/krutschbrooke/`,
+    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Creative problem-solver with a passion for interactive design and a strong background in branding and front-end web development. Thrives on being challenged and challenging team members on a daily basis. Experience leading teams on design and development for cross device and cross-platform environments.`,
+    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Bull Oak Capital',
+        name: 'Devfolio',
         description:
-          'Custom WordPress theme and marketing materials.',
-        link: 'https://bulloakcapital.com/',
+          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Viva Frida',
+        name: 'ChromeExtensionKit',
         description:
-          'Branding, packaging, and custom animations',
-        link: 'https://www.viva-frida.com/',
+          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+        link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
-        name: 'Bank of Southern California',
+        name: 'Another Cool Project',
         description:
-          'Development of a Custom WordPress theme, optimized for ADA compliance utilizing Monsido',
-        link: 'https://www.banksocal.com/',
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'CACHE',
-        description: 'Founder & Creative Director, February 2018 - Present',
-        link: 'https://cacheinteractive.com/',
+        name: 'Acme Corp',
+        description: 'Full-Stack Developer, February 2020 - Present',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'SD Creative Media',
-        description: 'Director of Web Development,  November 2014 - January 2018',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Globex Corp',
+        description: 'Full-Stack Developer, December 2017 - February 2020',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Blik',
-        description: 'Multimedia Designer, February 2014 - October 2014',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Hooli',
+        description: 'Full-Stack Developer, May 2015 - December 2017',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Design',
+        name: 'Languages & Frameworks',
         description:
-          'Photoshop, Illustrator, InDesign, XD, Figma, Sketch, AfterEffects, MailChimp, ConvertKit',
+          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
       },
       {
-        name: 'Development',
-        description:
-          'HTML, CSS, PHP, Javascript, Liquid, MySQL, cPanel, Wordpress, Shopify, Bootstrap, GIT, MAMP',
+        name: 'Databases',
+        description: 'MongoDB, PostreSQL, MySQL',
       },
       {
-        name: 'Project Management',
-        description: 'InfusionSoft, Monday.com, Asana, Trello, Freshbooks',
-      },
-      {
-        name: 'Industry Skills',
+        name: 'Other',
         description:
-          'Product Design, Interaction Design, Design Systems, UI Design, User Experience, Wireframing, Prototyping, Mobile-first Development',
+          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
       },
     ],
   },
