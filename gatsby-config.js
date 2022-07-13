@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: ``,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/krutschbrooke/`,
     // Content of the About Me section
     about: `Creative problem-solver with a passion for interactive design and a strong background in branding and front-end web development. Thrives on being challenged and challenging team members on a daily basis. Experience leading teams on design and development for cross device and cross-platform environments.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
@@ -40,19 +40,19 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'CACHE',
+        description: 'Founder & Creative Director, February 2018 - Present',
+        link: 'https://cacheinteractive.com/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'SD Creative Media',
+        description: 'Director of Web Development,  November 2014 - January 2018',
+        link: '',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Blik',
+        description: 'Multimedia Designer, February 2014 - October 2014',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
