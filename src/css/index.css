@@ -256,3 +256,8 @@ a { color: #fff; }
 a:hover, .hover\:text-black:hover {
     color: #b7ff00;
 }
+.ada-label {
+    text-indent: -30000px;
+    position: absolute;}
+h1 a:hover svg {fill: #b7ff00;}
+h1 a svg {margin-bottom: 10px;}
