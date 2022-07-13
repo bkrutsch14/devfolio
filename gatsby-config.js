@@ -58,18 +58,23 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Design',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Photoshop, Illustrator, InDesign, XD, Figma, Sketch, AfterEffects, MailChimp, ConvertKit',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Development',
+        description:
+          'HTML, CSS, PHP, Javascript, Liquid, MySQL, cPanel, Wordpress, Shopify, Bootstrap, GIT, MAMP',
       },
       {
-        name: 'Other',
+        name: 'Project Management',
+        description: 'InfusionSoft, Monday.com, Asana, Trello, Freshbooks',
+      },
+      {
+        name: 'Industry Skills',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Product Design, Interaction Design, Design Systems, UI Design, User Experience, Wireframing, Prototyping, Mobile-first Development',
       },
     ],
   },
