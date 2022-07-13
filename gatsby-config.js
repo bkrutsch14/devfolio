@@ -9,9 +9,9 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Results-driven creative director.`,
     // Optional: Twitter account handle
-    //author: `@rfitzio`,
+    author: ``,
     // Optional: Github account URL
-    //github: `https://github.com/ryanfitzgerald`,
+    github: ``,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/krutschbrooke/`,
     // Content of the About Me section
