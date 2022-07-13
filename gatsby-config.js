@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Brooke Krutsch | Creative Director`,
     // Description that goes under your name in main bio
-    description: `Creative Director`,
+    description: `Creative Director in Long Beach, CA`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
