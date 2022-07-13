@@ -11,30 +11,30 @@ module.exports = {
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: ``,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Creative problem-solver with a passion for interactive design and a strong background in branding and front-end web development. Thrives on being challenged and challenging team members on a daily basis. Experience leading teams on design and development for cross device and cross-platform environments.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Bull Oak Capital',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Custom WordPress theme and marketing materials.',
+        link: 'https://bulloakcapital.com/',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Viva Frida',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Branding, packaging, and custom animations',
+        link: 'https://www.viva-frida.com/',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Bank of Southern California',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Development of a Custom WordPress theme, optimized for ADA compliance utilizing Monsido',
+        link: 'https://www.banksocal.com/',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
