@@ -21,14 +21,32 @@ module.exports = {
       {
         name: 'Bull Oak Capital',
         description:
-          'Custom WordPress theme and marketing materials.',
+          'Custom WordPress theme design & development | Design and development of an email template customized to be compatible with dark-mode settings as well as cross-device programs and sizes',
         link: 'https://bulloakcapital.com/',
+      },
+      {
+        name: 'Goldune',
+        description:
+          'Shopify theme development and app customization',
+        link: 'https://www.goldune.com/',
+      },
+      {
+        name: 'South Harlow Interiors',
+        description:
+          'Branding & marketing design',
+        link: 'https://southharlow.com/',
       },
       {
         name: 'Viva Frida',
         description:
           'Branding, packaging, and custom animations',
         link: 'https://www.viva-frida.com/',
+      },
+      {
+        name: 'Dunskey Estate',
+        description:
+          'Custom WordPress theme design & development with booking and lead generation API integration',
+        link: 'https://www.dunskey.com/',
       },
       {
         name: 'Bank of Southern California',
