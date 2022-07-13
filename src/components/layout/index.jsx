@@ -8,7 +8,7 @@ const classes = {
 
 const Layout = ({ children }) => {
   return (
-//     <div className={classes.outerWrapper}>
+    <div className={classes.outerWrapper}>
 //       <svg
 //         className={classes.svg}
 //         width="404"
@@ -41,8 +41,8 @@ const Layout = ({ children }) => {
 //           fill="url(#5d0dd344-b041-4d26-bec4-8d33ea57ec9b)"
 //         />
 //       </svg>
-//       <div className={classes.wrapper}>{children}</div>
-//     </div>
+      <div className={classes.wrapper}>{children}</div>
+    </div>
   );
 };
 
