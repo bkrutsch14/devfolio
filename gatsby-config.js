@@ -1,17 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `http://brookekrutsch.com/`,
+    siteUrl: `https://krutschb.netlify.app/`,
     // Your Name
     name: 'Brooke Krutsch',
     // Main Site Title
     title: `Brooke Krutsch | Creative Director`,
     // Description that goes under your name in main bio
     description: `Results-driven creative director.`,
-    // Optional: Twitter account handle
-    author: ``,
-    // Optional: Github account URL
-    github: ``,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/krutschbrooke/`,
     // Content of the About Me section
