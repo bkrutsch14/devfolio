@@ -250,4 +250,4 @@ pre[class*='language-'] {
   text-shadow: none !important;
 }
 
-body { background-color: #111111;color: #eee; }
+body { background-color: #111111;color: #eee !important; }
