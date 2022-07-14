@@ -27,19 +27,19 @@ module.exports = {
       {
         name: 'Goldune',
         description:
-          'Shopify theme development and app customization',
+          'Improve customer experience through Shopify theme development and app integration',
         link: 'https://www.goldune.com/',
       },
       {
         name: 'Dunskey Estate',
         description:
-          'Custom WordPress theme design & development with booking and lead generation API integration',
+          'Create automated lead funnels and integrate booking system within custom WordPress theme',
         link: 'https://www.dunskey.com/',
       },
       {
         name: 'Bank of Southern California',
         description:
-          'Development of a Custom WordPress theme, optimized for ADA compliance utilizing Monsido',
+          'Increase annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.',
         link: 'https://www.banksocal.com/',
       },
     ],
