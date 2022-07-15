@@ -1,7 +1,7 @@
 ---
-title: My First Blog Post
-date: '2020-09-20T12:00:00.00Z'
-description: 'Ducimus perferendis porro cumque ea error ab voluptatem'
+title: Bank of Southern California
+date: ''
+description: 'Increase annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
