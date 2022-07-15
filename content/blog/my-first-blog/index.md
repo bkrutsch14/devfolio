@@ -1,7 +1,7 @@
 ---
 title: Bank of Southern California
-date: ''
-description: 'Increase annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.'
+date: 'Increased annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.'
+description: 'Increased annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
