@@ -1,7 +1,7 @@
 ---
 title: Bank of Southern California 
-date: ''
-description: 'Custom WordPress Theme Development with focus on ADA Compliance '
+date: 'Custom WordPress Theme Development with focus on ADA Compliance and Search Engine Optimization.'
+description: 'Custom WordPress Theme Development with focus on ADA Compliance and Search Engine Optimization.'
 ---
 
 ## Increased annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.
