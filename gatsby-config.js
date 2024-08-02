@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Brooke Krutsch | Creative Director`,
     // Description that goes under your name in main bio
-    description: `Creative Director in Long Beach, CA`,
+    description: `Creative Director in Los Angeles, CA`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
@@ -19,28 +19,40 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Bull Oak Capital',
+        name: 'International Bath & Tile',
         description:
-          'Custom WordPress theme design & development | Design and development of an email template customized to be compatible with dark-mode settings as well as cross-device programs and sizes',
-        link: 'https://bulloakcapital.com/',
+          'Redesign WordPress website to become a leader in the plumbing and tile showroom space while serving as an aspirational resource for clients and partners taking on home renovations. Run marketing campaigns to increase brand awareness and promote top product lines.',
+        link: 'https://www.ibtsdiego.com/',
       },
       {
-        name: 'Goldune',
+        name: 'First Pacific Bank',
         description:
-          'Improve customer experience through Shopify theme development and app integration',
-        link: 'https://www.goldune.com/',
+          'Custom WordPress theme design & development to launch alongside new naming and rebrand of the rapidly growing Southern California-based Bank, formerly known as Friendly Hills Bank.',
+        link: 'https://www.firstpacbank.com/',
       },
       {
         name: 'Dunskey Estate',
         description:
-          'Create automated lead funnels and integrate booking system within custom WordPress theme',
+          'Create automated lead funnels and develop user-centric CloudBeds booking system within custom WordPress theme.',
         link: 'https://www.dunskey.com/',
+      },
+      {
+        name: 'Close the Gap California',
+        description:
+          'Custom WordPress theme design & development | Design and development of marketing assets to include EveryAction email templates, social media templates, and campaign landing pages.',
+        link: 'https://closethegapca.org/',
       },
       {
         name: 'Bank of Southern California',
         description:
           'Increase annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.',
         link: 'https://www.banksocal.com/',
+      },
+      {
+        name: 'Bull Oak Capital',
+        description:
+          'Custom WordPress theme design & development | Design and development of an email template customized to be compatible with dark-mode settings as well as cross-device programs and sizes.',
+        link: 'https://bulloakcapital.com/',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -66,7 +78,7 @@ module.exports = {
       {
         name: 'Design',
         description:
-          'Photoshop, Illustrator, InDesign, XD, Figma, Sketch, AfterEffects, MailChimp, ConvertKit',
+          'Photoshop, Illustrator, InDesign, XD, Figma, Sketch, AfterEffects',
       },
       {
         name: 'Development',
@@ -74,8 +86,13 @@ module.exports = {
           'HTML, CSS, PHP, Javascript, Liquid, MySQL, cPanel, Wordpress, Shopify, Bootstrap, GIT, MAMP',
       },
       {
+        name: 'Marketing',
+        description:
+          'MailChimp, ConvertKit, Klaviyo, Constant Contact',
+      },
+      {
         name: 'Project Management',
-        description: 'InfusionSoft, Monday.com, Asana, Trello, Freshbooks',
+        description: 'Monday.com, Asana, Trello, Freshbooks, Gusto',
       },
       {
         name: 'Industry',
