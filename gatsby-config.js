@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Brooke Krutsch',
     // Main Site Title
-    title: `Brooke Krutsch | Creative Director`,
+    title: `Brooke Krutsch | Creative Director & Front-end Developer`,
     // Description that goes under your name in main bio
-    description: `Creative Director in Los Angeles, CA`,
+    description: `Lead Developer in Los Angeles, CA`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
@@ -15,7 +15,8 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/krutschbrooke/`,
     // Content of the About Me section
-    about: `Creative problem-solver with a passion for interactive design and a strong background in branding and front-end web development. Thrives on being challenged and challenging team members on a daily basis. Experience leading teams on design and development for cross device and cross-platform environments.`,
+    about: `Creative problem-solver with a passion for interactive user experiences. Thrives in collaborative environments that present creative problem-solving challenges. Experience leading teams on design and front-end development for cross-device and cross-platform environments.`,
+    // about: `Creative problem-solver with a passion for interactive design and a strong background in branding and front-end web development. Thrives on being challenged and challenging team members on a daily basis. Experience leading teams on design and development for cross-device and cross-platform environments.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -53,7 +54,7 @@ module.exports = {
     experience: [
       {
         name: 'CACHE',
-        description: 'Founder & Creative Director, February 2018 - Present',
+        description: 'Founder & Lead Developer, February 2018 - Present',
         link: 'https://cacheinteractive.com/',
       },
       {
