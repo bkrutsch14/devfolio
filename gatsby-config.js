@@ -48,12 +48,6 @@ module.exports = {
           'Increase annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.',
         link: 'https://www.banksocal.com/',
       },
-      {
-        name: 'Bull Oak Capital',
-        description:
-          'Custom WordPress theme design & development | Design and development of an email template customized to be compatible with dark-mode settings as well as cross-device programs and sizes.',
-        link: 'https://bulloakcapital.com/',
-      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
