@@ -1,14 +1,14 @@
 ---
-title: My First Blog Post
-date: '2020-09-20T12:00:00.00Z'
-description: 'Ducimus perferendis porro cumque ea error ab voluptatem'
+title: Bank of Southern California 
+date: 'Custom WordPress Theme Development with focus on ADA Compliance and Search Engine Optimization.'
+description: 'Custom WordPress Theme Development with focus on ADA Compliance and Search Engine Optimization.'
 ---
 
-## Lorem ipsum dolor sit amet consectetur adipisicing elit
+## Increased annual website traffic over 200 times from previous year through the development of a custom WordPress theme, optimized for ADA compliance and Search Engine performance.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
 
-![Mountain](./mountain.jpg)
+![Homepage](./bsc-homepage.jpg)
 
 Aliquam aliquid rem facere dolorum consectetur consequatur distinctio [mollitia id modi repellendus](https://github.com/RyanFitzgerald/devfolio) vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.
 
@@ -25,6 +25,8 @@ Veritatis et praesentium totam neque earum commodi nesciunt dolor quibusdam inci
 > Repudiandae iusto et iure pariatur aliquid, quisquam, non sed culpa, dignissimos recusandae facilis. Debitis hic, quaerat recusandae ad id, quis nisi perspiciatis quo aliquid natus similique.
 
 Illum esse recusandae facere ipsam fugiat est eaque ducimus facilis provident, distinctio cum aut corporis officiis quo fugit, similique temporibus inventore quidem tempora commodi saepe dicta! Numquam fugiat quibusdam aut ut, voluptatibus accusamus **repellendus quas minus consequuntur** possimus! Est eaque nesciunt, reiciendis voluptate placeat aspernatur doloremque unde cum et architecto suscipit quam facere corrupti nihil odit eum minima voluptatem nobis.
+
+![Locations Page](./bsc-locations.jpg)
 
 ## Voluptatibus accusamus repellendus quas minus
 

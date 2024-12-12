@@ -252,8 +252,8 @@ pre[class*='language-'] {
 
 body { background-color: #111111;color: #eee !important; }
 h1, h2, h3, h4, h5, h6, p, .text-gray-600, .text-gray-900, ul, ol, li, .blog-content h1, .blog-content h2 { color: #eee; }
-a { color: #fff; }
-a:hover, .hover\:text-black:hover {
+a, .blog-content h3, .blog-content h4, .blog-content h5, .blog-content a { color: #fff; }
+a:hover, .blog-content a:hover, .hover\:text-black:hover {
     color: #b7ff00;
 }
 .ada-label {
@@ -261,3 +261,7 @@ a:hover, .hover\:text-black:hover {
     position: absolute;}
 h1 a:hover svg {fill: #b7ff00;}
 h1 a svg {margin-bottom: 10px;}
+
+.blog-content .gatsby-resp-image-wrapper {
+    max-width: 100% !important;
+}
